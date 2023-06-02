@@ -11,7 +11,7 @@ import SwiftUI
 struct ForeUCastApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ForecastView()
         }
     }
 }
